@@ -21,12 +21,20 @@ Please ensure following dependencies installed
 </pre>
 
 ### GoogleNews-vectors-negative300 model Download:
+<pre>
+<code>
 import gensim.downloader as api
 path = api.load("word2vec-google-news-300", return_path=True) 
+</code>
+</pre>
 
 ### NLTK Dependencies:
+<pre>
+<code>
 nltk.download("punkt")
 nltk.download('stopwords')
+</code>
+</pre>
 
 ## Usage
 In order to run code please install alldpendencied and lunch Jupyter Notebook GUI.
