@@ -14,7 +14,11 @@ Please ensure following dependencies installed
 ### Anaconda Navigator 2.4.0 (Python 3.10.9)
 
 ### PIP Dependencies:
-!pip install nltk==3.8.1 regex==2023.10.3 scikit-learn==1.3.2 gensim==4.3.2
+<pre>
+<code>
+  !pip install nltk==3.8.1 regex==2023.10.3 scikit-learn==1.3.2 gensim==4.3.2
+</code>
+</pre>
 
 ### GoogleNews-vectors-negative300 model Download:
 import gensim.downloader as api
