@@ -37,6 +37,6 @@ nltk.download('stopwords')
 </pre>
 
 ## Usage
-In order to run code please install alldpendencied and lunch Jupyter Notebook GUI.
+In order to run code please install all dpendencied and lunch Jupyter Notebook GUI.
 
 
